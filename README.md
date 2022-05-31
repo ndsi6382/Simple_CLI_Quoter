@@ -12,7 +12,6 @@ After navigating to the directory of the program, run
 ## Usage
 Usage is as follows: 
 `./simple_invoice_generator.py [-h] [-s SYMBOL] [-e EXCHANGE] [-r]`.  
-If no arguments are given, the help message is displayed.
 - `-s SYMBOL` sets the ticker symbol for lookup. This is a mandatory argument.
 - `-e EXCHANGE` sets the exchange or market for the symbol (eg. ASX, HKEX...).
 For currencies, set it as 'global'. If omitted for stock exchange symbols, 
@@ -23,9 +22,11 @@ subdirectory.
 - `-q FIELD` optionally allows for the querying of a singular field from the 
 data (with no spaces). A report will never be generated with this option, and 
 if the field is not found, then the entire data will be output.
-- `-h` displays the help message.  
+- `-h` displays the help message.
 
-Note the following additional points:
+If no arguments are given, the help message is displayed.  
+
+### Further Points
 - Arguments are case-insensitive.
 - Currency pair symbols are concatenations of their symbols: USD and AUD = 
 `USDAUD`.
