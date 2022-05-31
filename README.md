@@ -18,7 +18,8 @@ If no arguments are given, the help message is displayed.
 For currencies, set it as 'global'. If omitted for stock exchange symbols, 
 this will default to US markets.
 - `-r REPORT` optionally allows for a .txt report to be created in the current 
-working directory.
+working directory. A sample report has been included in the `sample_report` 
+subdirectory.
 - `-q FIELD` optionally allows for the querying of a singular field from the 
 data (with no spaces). A report will never be generated with this option, and 
 if the field is not found, then the entire data will be output.
