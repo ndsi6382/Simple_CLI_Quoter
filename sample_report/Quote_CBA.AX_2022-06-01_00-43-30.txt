@@ -1,0 +1,92 @@
+SIMPLE C-LI QUOTER
+
+Report generated: 00:43:30 01-06-2022
+_____________________________________
+
+Commonwealth Bank of Australia (CBA.AX)
+  ----  
+Website: https://www.commbank.com.au
+Country: Australia
+Sector: Financial Services
+Industry: Banks—Diversified
+Type: EQUITY
+Exchange: ASX
+Currency: AUD
+  ----  
+CurrentPrice: 104.36
+Bid: 104.36
+Ask: 104.38
+Open: 106.29
+PreviousClose: 106.56
+DayHigh: 106.54
+DayLow: 104.36
+PriceEarnings: 17.261
+MarketCap: 177921277952
+Volume: 3382862
+  ----  
+52WeekChange: 0.04926598
+SandP52WeekChange: -0.010423481
+AskSize: 7100
+AverageDailyVolume10Day: 2300979
+AverageVolume: 2329220
+AverageVolume10days: 2300979
+Beta: 0.74454
+BidSize: 36400
+BookValue: 43.791
+DividendRate: 3.5
+DividendYield: 0.0328
+EarningsGrowth: 0.226
+EarningsQuarterlyGrowth: 0.206
+EnterpriseToRevenue: 11.795
+EnterpriseValue: 296842493952
+ExDividendDate: 1644969600
+FiftyDayAverage: 104.9572
+FiftyTwoWeekHigh: 110.19
+FiftyTwoWeekLow: 92.37
+FiveYearAvgDividendYield: 4.95
+FloatShares: 1699868932
+ForwardEps: 5.47
+ForwardPE: 19.078611
+GrossProfits: 23972000000
+HeldPercentInsiders: 0.00411
+HeldPercentInstitutions: 0.21205
+LastDividendDate: 1644883200
+LastDividendValue: 1.75
+LastFiscalYearEnd: 1625011200
+LastSplitDate: 939168000
+LastSplitFactor: 1:1
+MostRecentQuarter: 1640908800
+NetIncomeToCommon: 9825000448
+NextFiscalYearEnd: 1688083200
+NumberOfAnalystOpinions: 15
+OperatingCashflow: -18645000192
+OperatingMargins: 0.56715
+PayoutRatio: 0.65790004
+PegRatio: 1.85
+PriceHint: 2
+PriceToBook: 2.3831382
+PriceToSalesTrailing12Months: 7.0699067
+ProfitMargins: 0.44432998
+RecommendationKey: underperform
+RecommendationMean: 3.7
+ReturnOnAssets: 0.0089
+ReturnOnEquity: 0.13129
+RevenueGrowth: 0.107
+RevenuePerShare: 14.331
+SharesOutstanding: 1704880000
+TargetHighPrice: 114
+TargetLowPrice: 77
+TargetMeanPrice: 96.23
+TargetMedianPrice: 93
+TotalCash: 147941998592
+TotalCashPerShare: 86.776
+TotalDebt: 262988005376
+TotalRevenue: 25166000128
+TrailingAnnualDividendRate: 3.75
+TrailingAnnualDividendYield: 0.035191443
+TrailingEps: 6.046
+TwoHundredDayAverage: 101.645
+
+ -- End of report.
+
+Thank you for using the Simple C-Li Quoter!
