@@ -1,4 +1,4 @@
-# Simple C-Li Quoter
+# Simple CLI Quoter
 
 This is a simple command line program to retrieve and display financial data 
 from Yahoo Finance.
